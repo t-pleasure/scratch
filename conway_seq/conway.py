@@ -100,3 +100,4 @@ if __name__ == "__main__":
     n = int(raw_input("length of look-and-say sequence to compute: ").strip())
     print "n=(%d) generates:" % n
     print sequence(n) 
+
